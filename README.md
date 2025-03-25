@@ -7,4 +7,4 @@ Hay un bug al arrastrar canciones que desconozco y es cuando se arrastran cancio
 
 las canciones en la carpeta "canciones_reproducibles" son las que se pueden arrastrar y soltar sin problemas para escucharla en la lista del reproductor a su gusto
 
-Esta diseñada exclusivamente para el sistema operativo windows 
+Esta diseñada exclusivamente para el sistema operativo windows y la ubicacion de los archivos esta en la rama master
